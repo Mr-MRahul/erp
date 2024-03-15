@@ -15,7 +15,7 @@ export default [
       "orderID": 103,
       "customerName": "Charlie Brown",
       "orderDate": "2024-03-03",
-      "status": "Delivered"
+      "status": "Processing"
     },
     {
       "orderID": 104,
@@ -27,7 +27,7 @@ export default [
       "orderID": 105,
       "customerName": "Eva Garcia",
       "orderDate": "2024-03-05",
-      "status": "Shipped"
+      "status": "Pending"
     },
     {
       "orderID": 106,
@@ -69,7 +69,7 @@ export default [
       "orderID": 112,
       "customerName": "Liam Martinez",
       "orderDate": "2024-03-12",
-      "status": "Processing"
+      "status": "Pending"
     },
     {
       "orderID": 113,
