@@ -21,7 +21,7 @@ const data2 = {
   labels: products.map(datum=>datum.name),
   datasets: [
     {
-      label: 'Stock Quantity',
+      label: 'Stock Price',
       data: products.map(product=>parseInt(product.price.slice(1,-1))),
       backgroundColor: 'rgba(75,192,192,0.4)',
       borderColor: 'rgba(75,192,192,1)',
